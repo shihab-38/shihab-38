@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shihab Hossain Abir</h1>
 <h3 align="center">Interested in CP(Competitive Programming)</h3>
-<img aling="right" alt="coading" width= "400" src>
-<p align = "left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Ftyresswhite%2Fcoding-animations%2F&psig=AOvVaw2491fxNWY1tc2eHYgsGPAS&ust=1684481537561000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJC_sPKs_v4CFQAAAAAdAAAAABAD">
+<img aling="right" alt="coading" width= "400" src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab-38&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-38" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-38" alt="shihab-38" /></a> </p>
